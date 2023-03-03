@@ -1,0 +1,1 @@
+# svgo-compression-tool
