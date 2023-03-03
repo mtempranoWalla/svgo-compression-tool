@@ -1,0 +1,12 @@
+{
+  "name": "svgo-compression-tool",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "compress": "svgo --config ./config.js -f ./origin-folder -o ./destination-folder"
+  },
+  "private": true,
+  "devDependencies": {
+    "svgo": "3.0.2"
+  }
+}
